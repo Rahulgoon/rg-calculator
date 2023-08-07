@@ -1,1 +1,1 @@
-# rg-calculator
+# Simple calculator for Mathematical operations
